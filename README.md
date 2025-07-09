@@ -1,5 +1,4 @@
-# Titanic-ML-Project
-# Titanic Survival Prediction 🚢
+# Titanic-ML-Project->Survival Prediction 🚢
 
 This project uses the Titanic dataset to predict survival based on passenger features using Logistic Regression and Random Forest.
 
